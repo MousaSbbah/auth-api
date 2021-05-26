@@ -109,7 +109,9 @@ Endpoint:
 
 ## Tests
 high coverage test : 
+
 ![coverage](./assest/coverage.png)
+
 
 You can check Github actions link :**https://github.com/MousaSbbah/auth-api/actions**
 
