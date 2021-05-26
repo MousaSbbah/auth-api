@@ -111,15 +111,13 @@ Endpoint:
 high coverage test : 
 ![coverage](./assest/coverage.png)
 
-You can check Github actions link :**https://github.com/MousaSbbah/bearer-auth/actions**
+You can check Github actions link :**https://github.com/MousaSbbah/auth-api/actions**
 
 **Unit Tests:**
 
 ```
 npm run test
 ```
-
-and to try the API you can also use this [Web Application](https://javascript-401.netlify.app/basic-auth)
 
 ##
 
