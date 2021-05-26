@@ -12,9 +12,8 @@ let users = {
 };
 
 // Pre-load our database with fake users
-beforeAll(async (done) => {
+beforeAll(async () => {
   await new Users(users.admin).save();
-  done();
 });
 
 describe('Auth Middleware', () => {
